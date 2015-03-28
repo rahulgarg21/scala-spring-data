@@ -1,0 +1,16 @@
+*.class
+*.log
+
+.settings/
+.cache
+.history
+.lib/
+.gradle/
+dist/*
+build/*
+target/*
+bin/*
+.scala_dependencies
+.worksheet
+.classpath
+.project
